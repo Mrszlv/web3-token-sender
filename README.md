@@ -172,7 +172,7 @@ main();
 
 ## 📄 Ліцензія
 
-MIT License
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](./LICENSE)
 
 ## 👨‍💻 Автор
 
