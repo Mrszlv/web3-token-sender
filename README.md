@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="./banner.png" alt="Web3 Token Sender Banner" width="100%">
-</p>
-
 # 🚀 Web3 Token Sender — Send ETH via CLI (Ethers.js)
+
+<p align="center">
+  <img src="banner.png" width="100%" alt="Web3 Token Sender Banner"/>
+</p>
 
 CLI-утиліта для відправки нативного ETH у тестовій мережі Sepolia.
 Підтримує публічні RPC, приватний ключ від MetaMask і підтвердження транзакцій у реальному часі.
@@ -61,13 +61,9 @@ RPC_URL=https://ethereum-sepolia-rpc.publicnode.com
 ## 🔑 Як отримати PRIVATE KEY у MetaMask
 
 1. Відкрий MetaMask
-
 2. Клікни по Account → Account details
-
 3. Натисни Export Private Key
-
 4. Введи пароль
-
 5. Скопіюй ключ
 
 ## ⚠️ НІКОЛИ не публікуй цей ключ у GitHub!
