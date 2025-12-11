@@ -59,7 +59,6 @@ async function main() {
 
     console.log("📄 receipt.status:", receipt.status);
 
-    // У ethers v6 це number: 1 (success) або 0 (fail)
     if (receipt.status === 1) {
       console.log("✅ Транзакція підтверджена!");
       console.log(`📦 Block: ${receipt.blockNumber}`);
