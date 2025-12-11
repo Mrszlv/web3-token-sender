@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Web3 Token Sender Banner" width="100%">
+</p>
+
 # 🚀 Web3 Token Sender — Send ETH via CLI (Ethers.js)
 
 CLI-утиліта для відправки нативного ETH у тестовій мережі Sepolia.

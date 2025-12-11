@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "CLI-скрипт для відправки ERC-20 токенів у Web3 мережі за допомогою ethers.js",
   "type": "module",
-  "main": "send-native.mjs",
+  "main": "send-token.mjs",
   "scripts": {
-    "send": "node send-native.mjs"
+    "send": "node send-token.mjs"
   },
   "dependencies": {
     "dotenv": "^16.6.1",
